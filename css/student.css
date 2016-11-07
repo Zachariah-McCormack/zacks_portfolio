@@ -1,0 +1,12 @@
+body 
+
+/*.col-xs-6 {
+    width: 33%;
+    height: 800px;
+    border: 3px solid gray;
+}*/
+img {
+    vertical-align: middle;
+    border: 10px solid #9E9E9E;
+    width: 100%;
+}
