@@ -1,12 +1,40 @@
-body 
+body {
+	background-color:  rgb(9, 22, 75);
+}
 
-/*.col-xs-6 {
-    width: 33%;
-    height: 800px;
-    border: 3px solid gray;
-}*/
+.presidential-seal {
+	border: none;
+    margin: 1em;
+    margin-left: 3em;
+}
+
+.header {
+	color:  #DFC201;
+	margin: 1em;
+	text-align: center;
+	text-decoration: underline;
+}
+
+
+.flag {
+	border: none;
+	margin: 2em;
+	margin-left: -3em;
+}
+
 img {
     vertical-align: middle;
-    border: 10px solid #9E9E9E;
+    border: .5em solid  #DFC201;
     width: 100%;
+}
+
+.figcaption {
+    font-size: .8em;
+    margin: .8em;
+    color: #DFC201;
+}
+
+a {
+	float: right;
+	color: white;
 }
